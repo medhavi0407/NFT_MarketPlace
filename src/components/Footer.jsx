@@ -20,7 +20,7 @@ export default function Footer() {
       value:"+91 9891226520",
     },
     {
-      icon:<Locationshar/>,
+      icon:<IoLocationSharp/>,
       value:"A-18,Delhi",
     },
   ];
