@@ -35,6 +35,7 @@ export default function CreateAndSell() {
             <h2>Create and Sell Your NFTs</h2>
         </div>
         <div className="container">
+            <div className="ellipse"></div>
             <div className="content">
                 {
                     data.map(({image,description,title,buttonText},index)=>{
