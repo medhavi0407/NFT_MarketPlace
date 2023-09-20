@@ -111,4 +111,42 @@ const Section=styled.section`
         height:40rem; 
     }
 }
+@media screen and (min-width: 280px) and (max-width: 1080px) {
+    margin: 0;
+    border-radius: 0;
+    .container {
+      flex-direction: column;
+      margin: 0;
+      padding: 2rem;
+      gap: 2rem;
+      justify-content: center;
+      align-items: center;
+      .content {
+        padding-right: 0;
+        h1 {
+          font-size: 3rem;
+          span {
+            img {
+              height: 2rem;
+            }
+          }
+        }
+        .buttons {
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+        }
+        .data {
+          justify-content: center;
+          align-items: center;
+          gap: 2rem;
+        }
+      }
+      .image {
+        img {
+          height: 15rem;
+        }
+      }
+    }
+  }
 `;
