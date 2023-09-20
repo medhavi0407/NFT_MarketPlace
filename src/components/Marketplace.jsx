@@ -163,4 +163,17 @@ const Section = styled.section`
       }
     }
   }
+  @media screen and (min-width: 280px) and (max-width: 1080px) {
+    margin: 2rem;
+    .marketPlaceTypes {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+    }
+    .marketPlaces {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+  }
   `;
