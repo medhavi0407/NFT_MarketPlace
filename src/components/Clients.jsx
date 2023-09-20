@@ -17,7 +17,7 @@ export default function Clients() {
         </div>
       })}
     </Section>
-  )
+  );
 }
 
 const Section=styled.section`
@@ -26,4 +26,8 @@ justify-content:space-evenly;
 align-items:center;
 margin:0 2rem;
 margin-bottom:5rem;
+ @media screen and (min-width: 280px) and (max-width: 1080px) {
+    flex-direction: column;
+    margin-bottom: 2rem;
+  }
 `;
