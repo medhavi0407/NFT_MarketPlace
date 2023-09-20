@@ -1,6 +1,6 @@
-import React,{useState} from 'react';
+import React from 'react';
 import styled from "styled-components";
-import {AiFillFacebook} from "react-icon/ai";
+import {AiFillFacebook} from "react-icons/ai";
 import { BsLinkedin } from "react-icons/bs";
 import { FaTwitterSquare, FaInstagramSquare } from "react-icons/fa";
 import { MdEmail, MdPhoneInTalk } from "react-icons/md";
