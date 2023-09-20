@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/NFT_MarketPlace/static/css/main.2dfb5fbd.css",
-    "main.js": "/NFT_MarketPlace/static/js/main.23f0ab17.js",
+    "main.js": "/NFT_MarketPlace/static/js/main.a3da7c5b.js",
     "static/media/hero.png": "/NFT_MarketPlace/static/media/hero.f3beb31a14ebe3a6e278.png",
     "static/media/subscribe.png": "/NFT_MarketPlace/static/media/subscribe.47f32f199cee3c57102f.png",
     "static/media/choose.png": "/NFT_MarketPlace/static/media/choose.a5cb651c609ce2347d44.png",
@@ -16,10 +16,10 @@
     "static/media/heroText.png": "/NFT_MarketPlace/static/media/heroText.1ce3e652d5a1e370f425.png",
     "index.html": "/NFT_MarketPlace/index.html",
     "main.2dfb5fbd.css.map": "/NFT_MarketPlace/static/css/main.2dfb5fbd.css.map",
-    "main.23f0ab17.js.map": "/NFT_MarketPlace/static/js/main.23f0ab17.js.map"
+    "main.a3da7c5b.js.map": "/NFT_MarketPlace/static/js/main.a3da7c5b.js.map"
   },
   "entrypoints": [
     "static/css/main.2dfb5fbd.css",
-    "static/js/main.23f0ab17.js"
+    "static/js/main.a3da7c5b.js"
   ]
 }
