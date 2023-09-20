@@ -138,4 +138,10 @@ gap:7rem;
     }
   }
 }
+  @media screen and (min-width:280px) and (max-width:1080px){
+    grid-template-columns:1fr;
+    padding:2rem;
+    gap:2rem;
+  
+}
 `;
