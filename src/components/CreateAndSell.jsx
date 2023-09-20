@@ -103,4 +103,19 @@ mrgin-bottom:5rem;
     }
 
 }
+@media screen and (min-width: 280px) and (max-width: 1080px) {
+    margin: 2rem;
+    .title {
+      h2 {
+        font-size: 2rem;
+      }
+    }
+    .container {
+      padding: 1rem;
+      .content {
+        flex-direction: column;
+        gap: 1rem;
+      }
+    }
+  }
 `;
