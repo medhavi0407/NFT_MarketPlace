@@ -33,6 +33,7 @@ export default function Navbar() {
 
 const Nav=styled.nav`
 display:flex;
+margin-left:10rem;
 justify-content:space-between;
 align-items:center;
 margin:0.2rem;
