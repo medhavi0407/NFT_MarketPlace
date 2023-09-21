@@ -64,4 +64,7 @@ ul{
         }
     }
 }
+Button{
+    margin-right:5rem;
+}
 `;
